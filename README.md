@@ -2,7 +2,7 @@
 
 Сайт-визитка и дизайн двусторонней визитки бизнес-аналитика.
 
-Сайт: https://ryzenovod.github.io/cv_bi/
+Сайт: https://lizzzucher.github.io/CV/
 
 ## Сайт
 
